@@ -18,7 +18,7 @@ rest
   .put(
     Routes.applicationGuildCommands(
       config.get("discord.api.app_id"),
-      config.get("discord.api.guild_id")
+      config.get("discord.guild_id")
     ),
     { body: commands }
   )
