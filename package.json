@@ -1,13 +1,4 @@
 {
-  "devDependencies": {
-    "eslint": "^8.17.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-config-standard": "^17.0.0",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-n": "^15.2.3",
-    "eslint-plugin-promise": "^6.0.0",
-    "prettier": "^2.7.0"
-  },
   "dependencies": {
     "@discordjs/builders": "^0.15.0",
     "@discordjs/rest": "^0.5.0",
@@ -16,5 +7,12 @@
     "discord.js": "^13.8.0",
     "glob": "^8.0.3",
     "js-yaml": "^4.1.0"
-  }
+  },
+  "name": "lalabot",
+  "version": "1.0.0",
+  "description": "Lightweight bot for raid/static team management within FFXIV FCs",
+  "main": "lalabot.mjs",
+  "repository": "https://github.com/astarafar/LalaBot",
+  "author": "Justin Coffman <jcoffman@techsecu.red>",
+  "license": "BSD-3-Clause"
 }

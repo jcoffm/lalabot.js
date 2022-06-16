@@ -129,5 +129,9 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# Dependency Tracking
+yarn.lock
+package-lock.json
+
 # Secrets
 config/default.yaml
