@@ -134,4 +134,4 @@ yarn.lock
 package-lock.json
 
 # Secrets
-config/default.yaml
+config/default.json

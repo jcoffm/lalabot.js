@@ -1,0 +1,20 @@
+{
+  "discord": {
+    "guild_id": "DISCORD_GUILD_ID",
+    "api": {
+      "token": "DISCORD_API_TOKEN",
+      "app_id": "DISCORD_APP_ID"
+    },
+    "channels": {
+      "suggestions": "DISCORD_SUGGESTIONS_CHANNEL_ID"
+    }
+  },
+  "db": {
+    "host": "DB_HOST",
+    "port": DB_PORT,
+    "database": "DB_SCHEMA",
+    "user": "DB_USERNAME",
+    "password": "DB_PASSWORD",
+    "ssl": true
+  }
+}

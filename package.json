@@ -6,13 +6,15 @@
     "discord-api-types": "^0.34.0",
     "discord.js": "^13.8.0",
     "glob": "^8.0.3",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "knex": "^2.1.0",
+    "pg": "^8.7.3"
   },
   "name": "lalabot",
   "version": "1.0.0",
   "description": "Lightweight bot for raid/static team management within FFXIV FCs",
   "main": "lalabot.mjs",
-  "repository": "https://github.com/astarafar/LalaBot",
+  "repository": "https://github.com/astarafar/lalabot",
   "author": "Justin Coffman <jcoffman@techsecu.red>",
   "license": "BSD-3-Clause"
 }
